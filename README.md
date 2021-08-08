@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Swapan Chetri</h1>
 <h3 align="center">Student of B.tech(CSE-AI&ML) | Python developer | Data Science | Machine Learning | Placement Coordinator at Quantum University | Currently working on GUI Applications | Hungry Learner</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapan007&label=Profile%20views&color=0e75b6&style=flat" alt="swapan007" /> </p>
 
 - 🔭 I’m currently working on **Data Science & GUI Applications**
 
 - 🌱 I’m currently learning **Artificial Intelligence And Machine Learning ,Deep Learning , GUI Applications**
 
 - 📫 How to reach me **swapanchetri@gmail.com**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapan007&label=Profile%20views&color=0e75b6&style=flat" alt="swapan007" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
