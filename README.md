@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapan Chetri</h1>
 <h3 align="center">Student of B.tech(CSE-AI&ML) | Python developer | Data Science | Machine Learning | Placement Coordinator at Quantum University | Currently working on GUI Applications | Hungry Learner</h3>
 
-<h3 align="center">Ambitious and always ready to grab opportunities, with a keen interest in software development. Skilled in Machine Learning, Data Science, Python & C++</h3>
+<h3 align="center">Ambitious and always ready to grab opportunities, with a keen interest in software development. Skilled in Machine Learning, Data Science,Java, Python & C++</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapan007&label=Profile%20views&color=0e75b6&style=flat" alt="swapan007" /> </p>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" width="310px" border-radius="50px" />
